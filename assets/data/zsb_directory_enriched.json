@@ -1,0 +1,3822 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "url": "https://andhrapradesh.gov.in/",
+    "districts": [
+      {
+        "name": "Anantapur",
+        "url": "https://ap.nic.in/en/directory/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chittoor",
+        "url": "https://ap.nic.in/en/directory/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Godavari",
+        "url": "https://eastgodavari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Guntur",
+        "url": "https://guntur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Krishna",
+        "url": "https://krishna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kurnool",
+        "url": "https://kurnool.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nellore",
+        "url": "https://nellore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Prakasam",
+        "url": "https://prakasam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Srikakulam",
+        "url": "https://srikakulam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Visakhapatnam",
+        "url": "https://visakhapatnam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vizianagaram",
+        "url": "https://vizianagaram.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Godavari",
+        "url": "https://westgodavari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "YSR Kadapa",
+        "url": "https://ysrkadapa.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "url": "https://arunachalpradesh.gov.in/",
+    "districts": [
+      {
+        "name": "Tawang",
+        "url": "https://tawang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Kameng",
+        "url": "https://westkameng.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Kameng",
+        "url": "https://eastkameng.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Papum Pare",
+        "url": "https://papumpare.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kurung Kumey",
+        "url": "https://kurungkumey.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kra Daadi",
+        "url": "https://kradaadi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lower Subansiri",
+        "url": "https://lowersubansiri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Upper Subansiri",
+        "url": "https://uppersubansiri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Siang",
+        "url": "https://westsiang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Siang",
+        "url": "https://eastsiang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Siang",
+        "url": "https://siang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Upper Siang",
+        "url": "https://uppersiang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lower Siang",
+        "url": "https://lowersiang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lower Dibang Valley",
+        "url": "https://lowerdibangvalley.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dibang Valley",
+        "url": "https://dibangvalley.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Anjaw",
+        "url": "https://anjaw.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lohit",
+        "url": "https://lohit.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Namsai",
+        "url": "https://namsai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Changlang",
+        "url": "https://changlang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tirap",
+        "url": "https://tirap.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Longding",
+        "url": "https://longding.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Assam",
+    "url": "https://assam.gov.in/",
+    "districts": [
+      {
+        "name": "Baksa",
+        "url": "https://baksa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Barpeta",
+        "url": "https://barpeta.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Biswanath",
+        "url": "https://biswanath.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bongaigaon",
+        "url": "https://bongaigaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Cachar",
+        "url": "https://cachar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Charaideo",
+        "url": "https://charaideo.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chirang",
+        "url": "https://chirang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Darrang",
+        "url": "https://darrang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhemaji",
+        "url": "https://dhemaji.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhubri",
+        "url": "https://dhubri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dibrugarh",
+        "url": "https://dibrugarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Goalpara",
+        "url": "https://goalpara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Golaghat",
+        "url": "https://golaghat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hailakandi",
+        "url": "https://hailakandi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hojai",
+        "url": "https://hojai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jorhat",
+        "url": "https://jorhat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kamrup Metropolitan",
+        "url": "https://kamrupmetropolitan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kamrup",
+        "url": "https://kamrup.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Karbi Anglong",
+        "url": "https://karbianglong.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Karimganj",
+        "url": "https://karimganj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kokrajhar",
+        "url": "https://kokrajhar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lakhimpur",
+        "url": "https://lakhimpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Majuli",
+        "url": "https://majuli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Morigaon",
+        "url": "https://morigaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nagaon",
+        "url": "https://nagaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nalbari",
+        "url": "https://nalbari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dima Hasao",
+        "url": "https://dimahasao.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sivasagar",
+        "url": "https://sivasagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sonitpur",
+        "url": "https://sonitpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South Salmara-Mankachar",
+        "url": "https://southsalmaramankachar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tinsukia",
+        "url": "https://tinsukia.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Udalguri",
+        "url": "https://udalguri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Karbi Anglong",
+        "url": "https://westkarbianglong.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Bihar",
+    "url": "https://bihar.gov.in/",
+    "districts": [
+      {
+        "name": "Araria",
+        "url": "https://araria.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Arwal",
+        "url": "https://arwal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Aurangabad",
+        "url": "https://aurangabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Banka",
+        "url": "https://banka.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Begusarai",
+        "url": "https://begusarai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhagalpur",
+        "url": "https://bhagalpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhojpur",
+        "url": "https://bhojpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Buxar",
+        "url": "https://buxar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Darbhanga",
+        "url": "https://darbhanga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Champaran (Motihari)",
+        "url": "https://eastchamparanmotihari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gaya",
+        "url": "https://gaya.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gopalganj",
+        "url": "https://gopalganj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jamui",
+        "url": "https://jamui.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jehanabad",
+        "url": "https://jehanabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kaimur (Bhabua)",
+        "url": "https://kaimurbhabua.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Katihar",
+        "url": "https://katihar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khagaria",
+        "url": "https://khagaria.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kishanganj",
+        "url": "https://kishanganj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lakhisarai",
+        "url": "https://lakhisarai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Madhepura",
+        "url": "https://madhepura.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Madhubani",
+        "url": "https://madhubani.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Munger (Monghyr)",
+        "url": "https://mungermonghyr.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Muzaffarpur",
+        "url": "https://muzaffarpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nalanda",
+        "url": "https://nalanda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nawada",
+        "url": "https://nawada.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Patna",
+        "url": "https://patna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Purnia (Purnea)",
+        "url": "https://purniapurnea.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rohtas",
+        "url": "https://rohtas.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Saharsa",
+        "url": "https://saharsa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Samastipur",
+        "url": "https://samastipur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Saran",
+        "url": "https://saran.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sheikhpura",
+        "url": "https://sheikhpura.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sheohar",
+        "url": "https://sheohar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sitamarhi",
+        "url": "https://sitamarhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Siwan",
+        "url": "https://siwan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Supaul",
+        "url": "https://supaul.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vaishali",
+        "url": "https://vaishali.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Champaran",
+        "url": "https://westchamparan.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Chandigarh (UT)",
+    "url": "https://chandigarh(ut).gov.in/",
+    "districts": [
+      {
+        "name": "Chandigarh",
+        "url": "https://chandigarh.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "url": "https://chhattisgarh.gov.in/",
+    "districts": [
+      {
+        "name": "Balod",
+        "url": "https://balod.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Baloda Bazar",
+        "url": "https://balodabazar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Balrampur",
+        "url": "https://balrampur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bastar",
+        "url": "https://bastar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bemetara",
+        "url": "https://bemetara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bijapur",
+        "url": "https://bijapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bilaspur",
+        "url": "https://bilaspur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dantewada (South Bastar)",
+        "url": "https://dantewadasouthbastar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhamtari",
+        "url": "https://dhamtari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Durg",
+        "url": "https://durg.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gariyaband",
+        "url": "https://gariyaband.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Janjgir-Champa",
+        "url": "https://janjgirchampa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jashpur",
+        "url": "https://jashpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kabirdham (Kawardha)",
+        "url": "https://kabirdhamkawardha.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kanker (North Bastar)",
+        "url": "https://kankernorthbastar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kondagaon",
+        "url": "https://kondagaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Korba",
+        "url": "https://korba.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Korea (Koriya)",
+        "url": "https://koreakoriya.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahasamund",
+        "url": "https://mahasamund.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mungeli",
+        "url": "https://mungeli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Narayanpur",
+        "url": "https://narayanpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Raigarh",
+        "url": "https://raigarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Raipur",
+        "url": "https://raipur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rajnandgaon",
+        "url": "https://rajnandgaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sukma",
+        "url": "https://sukma.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Surajpur  ",
+        "url": "https://surajpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Surguja",
+        "url": "https://surguja.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Dadra and Nagar Haveli (UT)",
+    "url": "https://dadraandnagarhaveli(ut).gov.in/",
+    "districts": [
+      {
+        "name": "Dadra & Nagar Haveli",
+        "url": "https://dadranagarhaveli.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Daman and Diu (UT)",
+    "url": "https://damananddiu(ut).gov.in/",
+    "districts": [
+      {
+        "name": "Daman",
+        "url": "https://daman.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Diu",
+        "url": "https://diu.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Delhi (NCT)",
+    "url": "https://delhi(nct).gov.in/",
+    "districts": [
+      {
+        "name": "Central Delhi",
+        "url": "https://centraldelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Delhi",
+        "url": "https://eastdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "New Delhi",
+        "url": "https://newdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North Delhi",
+        "url": "https://northdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North East  Delhi",
+        "url": "https://northeastdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North West  Delhi",
+        "url": "https://northwestdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shahdara",
+        "url": "https://shahdara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South Delhi",
+        "url": "https://southdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South East Delhi",
+        "url": "https://southeastdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South West  Delhi",
+        "url": "https://southwestdelhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Delhi",
+        "url": "https://westdelhi.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Goa",
+    "url": "https://goa.gov.in/",
+    "districts": [
+      {
+        "name": "North Goa",
+        "url": "https://northgoa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South Goa",
+        "url": "https://southgoa.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Gujarat",
+    "url": "https://gujarat.gov.in/",
+    "districts": [
+      {
+        "name": "Ahmedabad",
+        "url": "https://ahmedabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Amreli",
+        "url": "https://amreli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Anand",
+        "url": "https://anand.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Aravalli",
+        "url": "https://aravalli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Banaskantha (Palanpur)",
+        "url": "https://banaskanthapalanpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bharuch",
+        "url": "https://bharuch.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhavnagar",
+        "url": "https://bhavnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Botad",
+        "url": "https://botad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chhota Udepur",
+        "url": "https://chhotaudepur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dahod",
+        "url": "https://dahod.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dangs (Ahwa)",
+        "url": "https://dangsahwa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Devbhoomi Dwarka",
+        "url": "https://devbhoomidwarka.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gandhinagar",
+        "url": "https://gandhinagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gir Somnath",
+        "url": "https://girsomnath.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jamnagar",
+        "url": "https://jamnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Junagadh",
+        "url": "https://junagadh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kachchh",
+        "url": "https://kachchh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kheda (Nadiad)",
+        "url": "https://khedanadiad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahisagar",
+        "url": "https://mahisagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mehsana",
+        "url": "https://mehsana.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Morbi",
+        "url": "https://morbi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Narmada (Rajpipla)",
+        "url": "https://narmadarajpipla.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Navsari",
+        "url": "https://navsari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Panchmahal (Godhra)",
+        "url": "https://panchmahalgodhra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Patan",
+        "url": "https://patan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Porbandar",
+        "url": "https://porbandar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rajkot",
+        "url": "https://rajkot.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sabarkantha (Himmatnagar)",
+        "url": "https://sabarkanthahimmatnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Surat",
+        "url": "https://surat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Surendranagar",
+        "url": "https://surendranagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tapi (Vyara)",
+        "url": "https://tapivyara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vadodara",
+        "url": "https://vadodara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Valsad",
+        "url": "https://valsad.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "url": "https://haryana.gov.in/",
+    "districts": [
+      {
+        "name": "Ambala",
+        "url": "https://ambala.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhiwani",
+        "url": "https://bhiwani.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Charkhi Dadri",
+        "url": "https://charkhidadri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Faridabad",
+        "url": "https://faridabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Fatehabad",
+        "url": "https://fatehabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gurgaon",
+        "url": "https://gurgaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hisar",
+        "url": "https://hisar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jhajjar",
+        "url": "https://jhajjar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jind",
+        "url": "https://jind.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kaithal",
+        "url": "https://kaithal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Karnal",
+        "url": "https://karnal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kurukshetra",
+        "url": "https://kurukshetra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahendragarh",
+        "url": "https://mahendragarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mewat",
+        "url": "https://mewat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Palwal",
+        "url": "https://palwal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Panchkula",
+        "url": "https://panchkula.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Panipat",
+        "url": "https://panipat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rewari",
+        "url": "https://rewari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rohtak",
+        "url": "https://rohtak.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sirsa",
+        "url": "https://sirsa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sonipat",
+        "url": "https://sonipat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Yamunanagar",
+        "url": "https://yamunanagar.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "url": "https://himachalpradesh.gov.in/",
+    "districts": [
+      {
+        "name": "Bilaspur",
+        "url": "https://bilaspur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chamba",
+        "url": "https://chamba.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hamirpur",
+        "url": "https://hamirpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kangra",
+        "url": "https://kangra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kinnaur",
+        "url": "https://kinnaur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kullu",
+        "url": "https://kullu.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lahaul &amp; Spiti",
+        "url": "https://lahaulampspiti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mandi",
+        "url": "https://mandi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shimla",
+        "url": "https://shimla.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sirmaur (Sirmour)",
+        "url": "https://sirmaursirmour.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Solan",
+        "url": "https://solan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Una",
+        "url": "https://una.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "url": "https://jammuandkashmir.gov.in/",
+    "districts": [
+      {
+        "name": "Anantnag",
+        "url": "https://anantnag.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bandipore",
+        "url": "https://bandipore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Baramulla",
+        "url": "https://baramulla.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Budgam",
+        "url": "https://budgam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Doda",
+        "url": "https://doda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ganderbal",
+        "url": "https://ganderbal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jammu",
+        "url": "https://jammu.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kargil",
+        "url": "https://kargil.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kathua",
+        "url": "https://kathua.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kishtwar",
+        "url": "https://kishtwar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kulgam",
+        "url": "https://kulgam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kupwara",
+        "url": "https://kupwara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Leh",
+        "url": "https://leh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Poonch",
+        "url": "https://poonch.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pulwama",
+        "url": "https://pulwama.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rajouri",
+        "url": "https://rajouri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ramban",
+        "url": "https://ramban.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Reasi",
+        "url": "https://reasi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Samba",
+        "url": "https://samba.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shopian",
+        "url": "https://shopian.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Srinagar",
+        "url": "https://srinagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Udhampur",
+        "url": "https://udhampur.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "url": "https://jharkhand.gov.in/",
+    "districts": [
+      {
+        "name": "Bokaro",
+        "url": "https://bokaro.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chatra",
+        "url": "https://chatra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Deoghar",
+        "url": "https://deoghar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhanbad",
+        "url": "https://dhanbad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dumka",
+        "url": "https://dumka.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Singhbhum",
+        "url": "https://eastsinghbhum.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Garhwa",
+        "url": "https://garhwa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Giridih",
+        "url": "https://giridih.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Godda",
+        "url": "https://godda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gumla",
+        "url": "https://gumla.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hazaribag",
+        "url": "https://hazaribag.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jamtara",
+        "url": "https://jamtara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khunti",
+        "url": "https://khunti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Koderma",
+        "url": "https://koderma.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Latehar",
+        "url": "https://latehar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lohardaga",
+        "url": "https://lohardaga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pakur",
+        "url": "https://pakur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Palamu",
+        "url": "https://palamu.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ramgarh",
+        "url": "https://ramgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ranchi",
+        "url": "https://ranchi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sahibganj",
+        "url": "https://sahibganj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Seraikela-Kharsawan",
+        "url": "https://seraikelakharsawan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Simdega",
+        "url": "https://simdega.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Singhbhum",
+        "url": "https://westsinghbhum.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "url": "https://karnataka.gov.in/",
+    "districts": [
+      {
+        "name": "Bagalkot",
+        "url": "https://bagalkot.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ballari (Bellary)",
+        "url": "https://ballaribellary.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Belagavi (Belgaum)",
+        "url": "https://belagavibelgaum.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bengaluru (Bangalore) Rural",
+        "url": "https://bengalurubangalorerural.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bengaluru (Bangalore) Urban",
+        "url": "https://bengalurubangaloreurban.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bidar",
+        "url": "https://bidar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chamarajanagar",
+        "url": "https://chamarajanagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chikballapur",
+        "url": "https://chikballapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chikkamagaluru (Chikmagalur)",
+        "url": "https://chikkamagaluruchikmagalur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chitradurga",
+        "url": "https://chitradurga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dakshina Kannada",
+        "url": "https://dakshinakannada.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Davangere",
+        "url": "https://davangere.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dharwad",
+        "url": "https://dharwad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gadag",
+        "url": "https://gadag.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hassan",
+        "url": "https://hassan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Haveri",
+        "url": "https://haveri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kalaburagi (Gulbarga)",
+        "url": "https://kalaburagigulbarga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kodagu",
+        "url": "https://kodagu.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kolar",
+        "url": "https://kolar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Koppal",
+        "url": "https://koppal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mandya",
+        "url": "https://mandya.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mysuru (Mysore)",
+        "url": "https://mysurumysore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Raichur",
+        "url": "https://raichur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ramanagara",
+        "url": "https://ramanagara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shivamogga (Shimoga)",
+        "url": "https://shivamoggashimoga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tumakuru (Tumkur)",
+        "url": "https://tumakurutumkur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Udupi",
+        "url": "https://udupi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Uttara Kannada (Karwar)",
+        "url": "https://uttarakannadakarwar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vijayapura (Bijapur)",
+        "url": "https://vijayapurabijapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Yadgir",
+        "url": "https://yadgir.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "url": "https://kerala.gov.in/",
+    "districts": [
+      {
+        "name": "Alappuzha",
+        "url": "https://alappuzha.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ernakulam",
+        "url": "https://ernakulam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Idukki",
+        "url": "https://idukki.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kannur",
+        "url": "https://kannur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kasaragod",
+        "url": "https://kasaragod.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kollam",
+        "url": "https://kollam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kottayam",
+        "url": "https://kottayam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kozhikode",
+        "url": "https://kozhikode.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Malappuram",
+        "url": "https://malappuram.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Palakkad",
+        "url": "https://palakkad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pathanamthitta",
+        "url": "https://pathanamthitta.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "url": "https://thiruvananthapuram.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Thrissur",
+        "url": "https://thrissur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Wayanad",
+        "url": "https://wayanad.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Lakshadweep (UT)",
+    "url": "https://lakshadweep(ut).gov.in/",
+    "districts": [
+      {
+        "name": "Agatti",
+        "url": "https://agatti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Amini",
+        "url": "https://amini.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Androth",
+        "url": "https://androth.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bithra",
+        "url": "https://bithra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chethlath",
+        "url": "https://chethlath.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kavaratti",
+        "url": "https://kavaratti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kadmath",
+        "url": "https://kadmath.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kalpeni",
+        "url": "https://kalpeni.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kilthan",
+        "url": "https://kilthan.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Minicoy",
+        "url": "https://minicoy.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "url": "https://madhyapradesh.gov.in/",
+    "districts": [
+      {
+        "name": "Agar Malwa",
+        "url": "https://agarmalwa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Alirajpur",
+        "url": "https://alirajpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Anuppur",
+        "url": "https://anuppur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ashoknagar",
+        "url": "https://ashoknagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Balaghat",
+        "url": "https://balaghat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Barwani",
+        "url": "https://barwani.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Betul",
+        "url": "https://betul.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhind",
+        "url": "https://bhind.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhopal",
+        "url": "https://bhopal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Burhanpur",
+        "url": "https://burhanpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chhatarpur",
+        "url": "https://chhatarpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chhindwara",
+        "url": "https://chhindwara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Damoh",
+        "url": "https://damoh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Datia",
+        "url": "https://datia.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dewas",
+        "url": "https://dewas.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhar",
+        "url": "https://dhar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dindori",
+        "url": "https://dindori.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Guna",
+        "url": "https://guna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gwalior",
+        "url": "https://gwalior.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Harda",
+        "url": "https://harda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hoshangabad",
+        "url": "https://hoshangabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Indore",
+        "url": "https://indore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jabalpur",
+        "url": "https://jabalpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jhabua",
+        "url": "https://jhabua.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Katni",
+        "url": "https://katni.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khandwa",
+        "url": "https://khandwa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khargone",
+        "url": "https://khargone.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mandla",
+        "url": "https://mandla.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mandsaur",
+        "url": "https://mandsaur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Morena",
+        "url": "https://morena.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Narsinghpur",
+        "url": "https://narsinghpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Neemuch",
+        "url": "https://neemuch.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Panna",
+        "url": "https://panna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Raisen",
+        "url": "https://raisen.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rajgarh",
+        "url": "https://rajgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ratlam",
+        "url": "https://ratlam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rewa",
+        "url": "https://rewa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sagar",
+        "url": "https://sagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Satna",
+        "url": "https://satna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sehore",
+        "url": "https://sehore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Seoni",
+        "url": "https://seoni.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shahdol",
+        "url": "https://shahdol.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shajapur",
+        "url": "https://shajapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sheopur",
+        "url": "https://sheopur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shivpuri",
+        "url": "https://shivpuri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sidhi",
+        "url": "https://sidhi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Singrauli",
+        "url": "https://singrauli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tikamgarh",
+        "url": "https://tikamgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ujjain",
+        "url": "https://ujjain.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Umaria",
+        "url": "https://umaria.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vidisha",
+        "url": "https://vidisha.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "url": "https://maharashtra.gov.in/",
+    "districts": [
+      {
+        "name": "Ahmednagar",
+        "url": "https://ahmednagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Akola",
+        "url": "https://akola.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Amravati",
+        "url": "https://amravati.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Aurangabad",
+        "url": "https://aurangabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Beed",
+        "url": "https://beed.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhandara",
+        "url": "https://bhandara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Buldhana",
+        "url": "https://buldhana.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chandrapur",
+        "url": "https://chandrapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhule",
+        "url": "https://dhule.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gadchiroli",
+        "url": "https://gadchiroli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gondia",
+        "url": "https://gondia.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hingoli",
+        "url": "https://hingoli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jalgaon",
+        "url": "https://jalgaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jalna",
+        "url": "https://jalna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kolhapur",
+        "url": "https://kolhapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Latur",
+        "url": "https://latur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mumbai City",
+        "url": "https://mumbaicity.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mumbai Suburban",
+        "url": "https://mumbaisuburban.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nagpur",
+        "url": "https://nagpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nanded",
+        "url": "https://nanded.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nandurbar",
+        "url": "https://nandurbar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nashik",
+        "url": "https://nashik.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Osmanabad",
+        "url": "https://osmanabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Palghar",
+        "url": "https://palghar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Parbhani",
+        "url": "https://parbhani.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pune",
+        "url": "https://pune.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Raigad",
+        "url": "https://raigad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ratnagiri",
+        "url": "https://ratnagiri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sangli",
+        "url": "https://sangli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Satara",
+        "url": "https://satara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sindhudurg",
+        "url": "https://sindhudurg.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Solapur",
+        "url": "https://solapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Thane",
+        "url": "https://thane.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Wardha",
+        "url": "https://wardha.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Washim",
+        "url": "https://washim.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Yavatmal",
+        "url": "https://yavatmal.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "url": "https://manipur.gov.in/",
+    "districts": [
+      {
+        "name": "Bishnupur",
+        "url": "https://bishnupur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chandel",
+        "url": "https://chandel.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Churachandpur",
+        "url": "https://churachandpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Imphal East",
+        "url": "https://imphaleast.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Imphal West",
+        "url": "https://imphalwest.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jiribam",
+        "url": "https://jiribam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kakching",
+        "url": "https://kakching.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kamjong",
+        "url": "https://kamjong.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kangpokpi",
+        "url": "https://kangpokpi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Noney",
+        "url": "https://noney.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pherzawl",
+        "url": "https://pherzawl.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Senapati",
+        "url": "https://senapati.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tamenglong",
+        "url": "https://tamenglong.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tengnoupal",
+        "url": "https://tengnoupal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Thoubal",
+        "url": "https://thoubal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ukhrul",
+        "url": "https://ukhrul.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Meghalaya",
+    "url": "https://meghalaya.gov.in/",
+    "districts": [
+      {
+        "name": "East Garo Hills",
+        "url": "https://eastgarohills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Jaintia Hills",
+        "url": "https://eastjaintiahills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "East Khasi Hills",
+        "url": "https://eastkhasihills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North Garo Hills",
+        "url": "https://northgarohills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ri Bhoi",
+        "url": "https://ribhoi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South Garo Hills",
+        "url": "https://southgarohills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South West Garo Hills ",
+        "url": "https://southwestgarohills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South West Khasi Hills",
+        "url": "https://southwestkhasihills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Garo Hills",
+        "url": "https://westgarohills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Jaintia Hills",
+        "url": "https://westjaintiahills.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Khasi Hills",
+        "url": "https://westkhasihills.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Mizoram",
+    "url": "https://mizoram.gov.in/",
+    "districts": [
+      {
+        "name": "Aizawl",
+        "url": "https://aizawl.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Champhai",
+        "url": "https://champhai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kolasib",
+        "url": "https://kolasib.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lawngtlai",
+        "url": "https://lawngtlai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lunglei",
+        "url": "https://lunglei.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mamit",
+        "url": "https://mamit.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Saiha",
+        "url": "https://saiha.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Serchhip",
+        "url": "https://serchhip.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Nagaland",
+    "url": "https://nagaland.gov.in/",
+    "districts": [
+      {
+        "name": "Dimapur",
+        "url": "https://dimapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kiphire",
+        "url": "https://kiphire.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kohima",
+        "url": "https://kohima.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Longleng",
+        "url": "https://longleng.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mokokchung",
+        "url": "https://mokokchung.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mon",
+        "url": "https://mon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Peren",
+        "url": "https://peren.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Phek",
+        "url": "https://phek.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tuensang",
+        "url": "https://tuensang.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Wokha",
+        "url": "https://wokha.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Zunheboto",
+        "url": "https://zunheboto.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "url": "https://odisha.gov.in/",
+    "districts": [
+      {
+        "name": "Angul",
+        "url": "https://angul.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Balangir",
+        "url": "https://balangir.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Balasore",
+        "url": "https://balasore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bargarh",
+        "url": "https://bargarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhadrak",
+        "url": "https://bhadrak.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Boudh",
+        "url": "https://boudh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Cuttack",
+        "url": "https://cuttack.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Deogarh",
+        "url": "https://deogarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dhenkanal",
+        "url": "https://dhenkanal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gajapati",
+        "url": "https://gajapati.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ganjam",
+        "url": "https://ganjam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jagatsinghapur",
+        "url": "https://jagatsinghapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jajpur",
+        "url": "https://jajpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jharsuguda",
+        "url": "https://jharsuguda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kalahandi",
+        "url": "https://kalahandi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kandhamal",
+        "url": "https://kandhamal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kendrapara",
+        "url": "https://kendrapara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kendujhar (Keonjhar)",
+        "url": "https://kendujharkeonjhar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khordha",
+        "url": "https://khordha.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Koraput",
+        "url": "https://koraput.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Malkangiri",
+        "url": "https://malkangiri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mayurbhanj",
+        "url": "https://mayurbhanj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nabarangpur",
+        "url": "https://nabarangpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nayagarh",
+        "url": "https://nayagarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nuapada",
+        "url": "https://nuapada.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Puri",
+        "url": "https://puri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rayagada",
+        "url": "https://rayagada.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sambalpur",
+        "url": "https://sambalpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sonepur",
+        "url": "https://sonepur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sundargarh",
+        "url": "https://sundargarh.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Puducherry (UT)",
+    "url": "https://puducherry(ut).gov.in/",
+    "districts": [
+      {
+        "name": "Karaikal",
+        "url": "https://karaikal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahe",
+        "url": "https://mahe.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pondicherry",
+        "url": "https://pondicherry.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Yanam",
+        "url": "https://yanam.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "url": "https://punjab.gov.in/",
+    "districts": [
+      {
+        "name": "Amritsar",
+        "url": "https://amritsar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Barnala",
+        "url": "https://barnala.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bathinda",
+        "url": "https://bathinda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Faridkot",
+        "url": "https://faridkot.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Fatehgarh Sahib",
+        "url": "https://fatehgarhsahib.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Fazilka",
+        "url": "https://fazilka.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ferozepur",
+        "url": "https://ferozepur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gurdaspur",
+        "url": "https://gurdaspur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hoshiarpur",
+        "url": "https://hoshiarpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jalandhar",
+        "url": "https://jalandhar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kapurthala",
+        "url": "https://kapurthala.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ludhiana",
+        "url": "https://ludhiana.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mansa",
+        "url": "https://mansa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Moga",
+        "url": "https://moga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Muktsar",
+        "url": "https://muktsar.nic.in/directory/",
+        "phone": "01632-244004"
+      },
+      {
+        "name": "Nawanshahr (Shahid Bhagat Singh Nagar)",
+        "url": "https://nawanshahr.nic.in/directory/",
+        "phone": "01823-221301"
+      },
+      {
+        "name": "Pathankot",
+        "url": "https://pathankot.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Patiala",
+        "url": "https://patiala.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rupnagar",
+        "url": "https://rupnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sahibzada Ajit Singh Nagar (Mohali)",
+        "url": "https://sahibzadaajitsinghnagarmohali.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sangrur",
+        "url": "https://sangrur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tarn Taran",
+        "url": "https://tarntaran.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "url": "https://rajasthan.gov.in/",
+    "districts": [
+      {
+        "name": "Ajmer",
+        "url": "https://ajmer.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Alwar",
+        "url": "https://alwar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Banswara",
+        "url": "https://banswara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Baran",
+        "url": "https://baran.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Barmer",
+        "url": "https://barmer.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bharatpur",
+        "url": "https://bharatpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhilwara",
+        "url": "https://bhilwara.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bikaner",
+        "url": "https://bikaner.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bundi",
+        "url": "https://bundi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chittorgarh",
+        "url": "https://chittorgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Churu",
+        "url": "https://churu.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dausa",
+        "url": "https://dausa.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dholpur",
+        "url": "https://dholpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dungarpur",
+        "url": "https://dungarpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hanumangarh",
+        "url": "https://hanumangarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jaipur",
+        "url": "https://jaipur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jaisalmer",
+        "url": "https://jaisalmer.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jalore",
+        "url": "https://jalore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jhalawar",
+        "url": "https://jhalawar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jhunjhunu",
+        "url": "https://jhunjhunu.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jodhpur",
+        "url": "https://jodhpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Karauli",
+        "url": "https://karauli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kota",
+        "url": "https://kota.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nagaur",
+        "url": "https://nagaur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pali",
+        "url": "https://pali.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pratapgarh",
+        "url": "https://pratapgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rajsamand",
+        "url": "https://rajsamand.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sawai Madhopur",
+        "url": "https://sawaimadhopur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sikar",
+        "url": "https://sikar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sirohi",
+        "url": "https://sirohi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sri Ganganagar",
+        "url": "https://sriganganagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tonk",
+        "url": "https://tonk.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Udaipur",
+        "url": "https://udaipur.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Sikkim",
+    "url": "https://sikkim.gov.in/",
+    "districts": [
+      {
+        "name": "East Sikkim",
+        "url": "https://eastsikkim.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North Sikkim",
+        "url": "https://northsikkim.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South Sikkim",
+        "url": "https://southsikkim.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Sikkim",
+        "url": "https://westsikkim.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Tamil Nadu",
+    "url": "https://tamilnadu.gov.in/",
+    "districts": [
+      {
+        "name": "Ariyalur",
+        "url": "https://ariyalur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chennai",
+        "url": "https://chennai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Coimbatore",
+        "url": "https://coimbatore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Cuddalore",
+        "url": "https://cuddalore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dharmapuri",
+        "url": "https://dharmapuri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dindigul",
+        "url": "https://dindigul.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Erode",
+        "url": "https://erode.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kanchipuram",
+        "url": "https://kanchipuram.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kanyakumari",
+        "url": "https://kanyakumari.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Karur",
+        "url": "https://karur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Krishnagiri",
+        "url": "https://krishnagiri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Madurai",
+        "url": "https://madurai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nagapattinam",
+        "url": "https://nagapattinam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Namakkal",
+        "url": "https://namakkal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nilgiris",
+        "url": "https://nilgiris.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Perambalur",
+        "url": "https://perambalur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pudukkottai",
+        "url": "https://pudukkottai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ramanathapuram",
+        "url": "https://ramanathapuram.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Salem",
+        "url": "https://salem.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sivaganga",
+        "url": "https://sivaganga.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Thanjavur",
+        "url": "https://thanjavur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Theni",
+        "url": "https://theni.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Thoothukudi (Tuticorin)",
+        "url": "https://thoothukudituticorin.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tiruchirappalli",
+        "url": "https://tiruchirappalli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tirunelveli",
+        "url": "https://tirunelveli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tiruppur",
+        "url": "https://tiruppur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tiruvallur",
+        "url": "https://tiruvallur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tiruvannamalai",
+        "url": "https://tiruvannamalai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tiruvarur",
+        "url": "https://tiruvarur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vellore",
+        "url": "https://vellore.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Viluppuram",
+        "url": "https://viluppuram.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Virudhunagar",
+        "url": "https://virudhunagar.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "url": "https://telangana.gov.in/",
+    "districts": [
+      {
+        "name": "Adilabad",
+        "url": "https://adilabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhadradri Kothagudem",
+        "url": "https://bhadradrikothagudem.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hyderabad",
+        "url": "https://hyderabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jagtial",
+        "url": "https://jagtial.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jangaon",
+        "url": "https://jangaon.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jayashankar Bhoopalpally",
+        "url": "https://jayashankarbhoopalpally.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jogulamba Gadwal",
+        "url": "https://jogulambagadwal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kamareddy",
+        "url": "https://kamareddy.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Karimnagar",
+        "url": "https://karimnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khammam",
+        "url": "https://khammam.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Komaram Bheem Asifabad",
+        "url": "https://komarambheemasifabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahabubabad",
+        "url": "https://mahabubabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahabubnagar",
+        "url": "https://mahabubnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mancherial",
+        "url": "https://mancherial.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Medak",
+        "url": "https://medak.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Medchal",
+        "url": "https://medchal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nagarkurnool",
+        "url": "https://nagarkurnool.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nalgonda",
+        "url": "https://nalgonda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nirmal",
+        "url": "https://nirmal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nizamabad",
+        "url": "https://nizamabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Peddapalli",
+        "url": "https://peddapalli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rajanna Sircilla",
+        "url": "https://rajannasircilla.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rangareddy",
+        "url": "https://rangareddy.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sangareddy",
+        "url": "https://sangareddy.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Siddipet",
+        "url": "https://siddipet.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Suryapet",
+        "url": "https://suryapet.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Vikarabad",
+        "url": "https://vikarabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Wanaparthy",
+        "url": "https://wanaparthy.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Warangal (Rural)",
+        "url": "https://warangalrural.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Warangal (Urban)",
+        "url": "https://warangalurban.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Yadadri Bhuvanagiri",
+        "url": "https://yadadribhuvanagiri.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "url": "https://tripura.gov.in/",
+    "districts": [
+      {
+        "name": "Dhalai",
+        "url": "https://dhalai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gomati",
+        "url": "https://gomati.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Khowai",
+        "url": "https://khowai.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North Tripura",
+        "url": "https://northtripura.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sepahijala",
+        "url": "https://sepahijala.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South Tripura",
+        "url": "https://southtripura.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Unakoti",
+        "url": "https://unakoti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "West Tripura",
+        "url": "https://westtripura.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "url": "https://uttarakhand.gov.in/",
+    "districts": [
+      {
+        "name": "Almora",
+        "url": "https://almora.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bageshwar",
+        "url": "https://bageshwar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chamoli",
+        "url": "https://chamoli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Champawat",
+        "url": "https://champawat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dehradun",
+        "url": "https://dehradun.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Haridwar",
+        "url": "https://haridwar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nainital",
+        "url": "https://nainital.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pauri Garhwal",
+        "url": "https://paurigarhwal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pithoragarh",
+        "url": "https://pithoragarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rudraprayag",
+        "url": "https://rudraprayag.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Tehri Garhwal",
+        "url": "https://tehrigarhwal.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Udham Singh Nagar",
+        "url": "https://udhamsinghnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Uttarkashi",
+        "url": "https://uttarkashi.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "url": "https://uttarpradesh.gov.in/",
+    "districts": [
+      {
+        "name": "Agra",
+        "url": "https://agra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Aligarh",
+        "url": "https://aligarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Allahabad",
+        "url": "https://allahabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ambedkar Nagar",
+        "url": "https://ambedkarnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Amethi (Chatrapati Sahuji Mahraj Nagar)",
+        "url": "https://amethichatrapatisahujimahrajnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Amroha (J.P. Nagar)",
+        "url": "https://amrohajpnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Auraiya",
+        "url": "https://auraiya.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Azamgarh",
+        "url": "https://azamgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Baghpat",
+        "url": "https://baghpat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bahraich",
+        "url": "https://bahraich.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ballia",
+        "url": "https://ballia.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Balrampur",
+        "url": "https://balrampur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Banda",
+        "url": "https://banda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Barabanki",
+        "url": "https://barabanki.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bareilly",
+        "url": "https://bareilly.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Basti",
+        "url": "https://basti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bhadohi",
+        "url": "https://bhadohi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bijnor",
+        "url": "https://bijnor.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Budaun",
+        "url": "https://budaun.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bulandshahr",
+        "url": "https://bulandshahr.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chandauli",
+        "url": "https://chandauli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Chitrakoot",
+        "url": "https://chitrakoot.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Deoria",
+        "url": "https://deoria.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Etah",
+        "url": "https://etah.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Etawah",
+        "url": "https://etawah.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Faizabad",
+        "url": "https://faizabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Farrukhabad",
+        "url": "https://farrukhabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Fatehpur",
+        "url": "https://fatehpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Firozabad",
+        "url": "https://firozabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gautam Buddha Nagar",
+        "url": "https://gautambuddhanagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ghaziabad",
+        "url": "https://ghaziabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Ghazipur",
+        "url": "https://ghazipur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gonda",
+        "url": "https://gonda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Gorakhpur",
+        "url": "https://gorakhpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hamirpur",
+        "url": "https://hamirpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hapur (Panchsheel Nagar)",
+        "url": "https://hapurpanchsheelnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hardoi",
+        "url": "https://hardoi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hathras",
+        "url": "https://hathras.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jalaun",
+        "url": "https://jalaun.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jaunpur",
+        "url": "https://jaunpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jhansi",
+        "url": "https://jhansi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kannauj",
+        "url": "https://kannauj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kanpur Dehat",
+        "url": "https://kanpurdehat.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kanpur Nagar",
+        "url": "https://kanpurnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kanshiram Nagar (Kasganj)",
+        "url": "https://kanshiramnagarkasganj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kaushambi",
+        "url": "https://kaushambi.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kushinagar (Padrauna)",
+        "url": "https://kushinagarpadrauna.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lakhimpur - Kheri",
+        "url": "https://lakhimpurkheri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lalitpur",
+        "url": "https://lalitpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Lucknow",
+        "url": "https://lucknow.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Maharajganj",
+        "url": "https://maharajganj.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mahoba",
+        "url": "https://mahoba.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mainpuri",
+        "url": "https://mainpuri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mathura",
+        "url": "https://mathura.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mau",
+        "url": "https://mau.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Meerut",
+        "url": "https://meerut.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Mirzapur",
+        "url": "https://mirzapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Moradabad",
+        "url": "https://moradabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Muzaffarnagar",
+        "url": "https://muzaffarnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pilibhit",
+        "url": "https://pilibhit.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Pratapgarh",
+        "url": "https://pratapgarh.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "RaeBareli",
+        "url": "https://raebareli.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Rampur",
+        "url": "https://rampur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Saharanpur",
+        "url": "https://saharanpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sambhal (Bhim Nagar)",
+        "url": "https://sambhalbhimnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sant Kabir Nagar",
+        "url": "https://santkabirnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shahjahanpur",
+        "url": "https://shahjahanpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shamali (Prabuddh Nagar)",
+        "url": "https://shamaliprabuddhnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Shravasti",
+        "url": "https://shravasti.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Siddharth Nagar",
+        "url": "https://siddharthnagar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sitapur",
+        "url": "https://sitapur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sonbhadra",
+        "url": "https://sonbhadra.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Sultanpur",
+        "url": "https://sultanpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Unnao",
+        "url": "https://unnao.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Varanasi",
+        "url": "https://varanasi.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  },
+  {
+    "state": "West Bengal",
+    "url": "https://westbengal.gov.in/",
+    "districts": [
+      {
+        "name": "Alipurduar",
+        "url": "https://alipurduar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Bankura",
+        "url": "https://bankura.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Birbhum",
+        "url": "https://birbhum.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Burdwan (Bardhaman)",
+        "url": "https://burdwanbardhaman.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Cooch Behar",
+        "url": "https://coochbehar.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Dakshin Dinajpur (South Dinajpur)",
+        "url": "https://dakshindinajpursouthdinajpur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Darjeeling",
+        "url": "https://darjeeling.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Hooghly",
+        "url": "https://hooghly.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Howrah",
+        "url": "https://howrah.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Jalpaiguri",
+        "url": "https://jalpaiguri.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kalimpong",
+        "url": "https://kalimpong.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Kolkata",
+        "url": "https://kolkata.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Malda",
+        "url": "https://malda.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Murshidabad",
+        "url": "https://murshidabad.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Nadia",
+        "url": "https://nadia.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "North 24 Parganas",
+        "url": "https://north24parganas.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Paschim Medinipur (West Medinipur)",
+        "url": "https://paschimmedinipurwestmedinipur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Purba Medinipur (East Medinipur)",
+        "url": "https://purbamedinipureastmedinipur.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Purulia",
+        "url": "https://purulia.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "South 24 Parganas",
+        "url": "https://south24parganas.nic.in/",
+        "phone": "N/A"
+      },
+      {
+        "name": "Uttar Dinajpur (North Dinajpur)",
+        "url": "https://uttardinajpurnorthdinajpur.nic.in/",
+        "phone": "N/A"
+      }
+    ]
+  }
+]

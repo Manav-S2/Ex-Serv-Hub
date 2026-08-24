@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Ex-Servicemen App Hub",
+    "slug": "esm-app-hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "resizeMode": "contain", "backgroundColor": "#001433" },
+    "android": { "package": "com.esmhub.app" },
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.esmhub.app" },
+    "web": { "bundler": "metro" }
+  }
+}

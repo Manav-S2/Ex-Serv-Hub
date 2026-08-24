@@ -1,0 +1,34 @@
+[
+  {
+    "keywords": ["sparsh", "pension", "ppo", "login", "disbursement", "sanction"],
+    "content": "SPARSH (System for Pension Administration (Raksha)) is a web-based system for processing the pension claims and crediting the pension directly into the bank accounts of defence pensioners without relying on any external intermediary. To login to SPARSH, veterans must use their Service Number and Password on sparsh.defencepension.gov.in. If a pensioner forgets their password, they can use the 'Forgot Password' link. The SPARSH Helpdesk number is 18001805325."
+  },
+  {
+    "keywords": ["echs", "medical", "hospital", "polyclinic", "empanelled", "card", "64kb", "treatment", "dependents"],
+    "content": "ECHS (Ex-Servicemen Contributory Health Scheme) provides comprehensive quality medical care to all Ex-Servicemen (ESM) pensioners and their dependents. Members are issued a 64KB Smart Card. For treatment, beneficiaries must first visit their parent ECHS Polyclinic. In case of emergencies, beneficiaries can go directly to any empanelled hospital without a referral, but must inform the Polyclinic within 48 hours. Dependents (except spouses) must be verified annually using Form 26AS to ensure their income is below the eligible limit."
+  },
+  {
+    "keywords": ["csd", "canteen", "afd", "car", "liquor", "grocery", "smart card"],
+    "content": "CSD (Canteen Stores Department) provides grocery, liquor, and AFD (Against Firm Demand) items like cars and two-wheelers to veterans. To purchase an AFD item (like a car or bike), veterans must register and place an order online via the AFD CSD Portal (afd.csdindia.gov.in). There are strict rules for purchasing vehicles: an ESM must wait 5 years before selling a CSD-purchased car, and they can only purchase a four-wheeler once every 8 years (depending on rank)."
+  },
+  {
+    "keywords": ["dgr", "job", "employment", "resettlement", "training", "security agency", "cng", "toll"],
+    "content": "DGR (Directorate General of Resettlement) assists Ex-Servicemen with second careers after retirement. They provide various resettlement courses and self-employment schemes. Popular DGR schemes include the Security Agency Scheme (where ESM can run security agencies for PSUs), the management of CNG stations, Mother Dairy booths, and Toll Plazas. Veterans should register with their local Zila Sainik Board to apply for DGR schemes."
+  },
+  {
+    "keywords": ["ksb", "welfare", "grant", "financial", "orphan", "marriage", "education", "penury"],
+    "content": "KSB (Kendriya Sainik Board) is the apex body of the Government of India for the formulation of policies regarding resettlement and welfare of Ex-Servicemen and their dependents. KSB provides various financial assistance schemes under the Armed Forces Flag Day Fund (AFFDF). These include Penury Grants (for non-pensioners above 65), Education Grants for children, Marriage Grants for daughters of ESM/Widows, and Medical Grants for non-ECHS members. Applications are submitted online at ksb.gov.in and routed through the local ZSB."
+  },
+  {
+    "keywords": ["rsb", "zsb", "ddswo", "identity card", "i-card", "zila sainik board"],
+    "content": "RSB (Rajya Sainik Board) and ZSB (Zila Sainik Board) operate at the state and district levels respectively. In Punjab, ZSBs are known as DDSWO (District Defence Services Welfare Office). Every retiring soldier must register with their home district's ZSB to obtain an official Ex-Servicemen Identity Card. The ZSB is the first point of contact for all grievances, grants, and welfare schemes. Contact details for all ZSBs can be found on the State Portals."
+  },
+  {
+    "keywords": ["desw", "mod", "ministry", "policy", "welfare"],
+    "content": "DESW (Department of Ex-Servicemen Welfare) falls under the Ministry of Defence (MoD). It was created in 2004 to solely focus on the welfare and resettlement of ESM, pensioners, and their dependents. It formulates national policies regarding pension, healthcare (ECHS), and resettlement (DGR)."
+  },
+  {
+    "keywords": ["agif", "insurance", "claim", "disability", "death"],
+    "content": "AGIF (Army Group Insurance Fund) provides insurance cover to serving personnel. Upon retirement, an extended insurance scheme provides coverage up to specific ages (e.g., 75 or 80 years depending on rank). In the event of the veteran's death, the dependents can claim this insurance amount by submitting the death certificate and original policy documents to AGIF Bhavan."
+  }
+]
