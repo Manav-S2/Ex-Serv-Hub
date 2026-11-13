@@ -17,6 +17,7 @@ const { scrapeDGR } = require('./scrapers/dgr');
 const { scrapeKSB } = require('./scrapers/ksb');
 const { scrapePIB } = require('./scrapers/pib');
 const { scrapeDESW } = require('./scrapers/desw');
+const { scrapeAWPO } = require('./scrapers/awpo');
 const SEED_JOBS = require('./seed_jobs.json');
 
 // ─────────────────────────────────────────────────────────
@@ -77,11 +78,12 @@ exports.scheduledScrapeJobs = functions
       scrapeKSB(),
       scrapePIB(),
       scrapeDESW(),
+      scrapeAWPO(),
     ]);
 
     let allJobs = [];
     results.forEach((result, i) => {
-      const names = ['DGR', 'KSB', 'PIB', 'DESW'];
+      const names = ['DGR', 'KSB', 'PIB', 'DESW', 'AWPO'];
       if (result.status === 'fulfilled') {
         console.log(`[Scraper] ${names[i]}: ${result.value.length} jobs`);
         allJobs = allJobs.concat(result.value);
@@ -156,11 +158,12 @@ exports.manualScrape = functions
       scrapeKSB(),
       scrapePIB(),
       scrapeDESW(),
+      scrapeAWPO(),
     ]);
 
     let allJobs = [];
     const stats = {};
-    const names = ['DGR', 'KSB', 'PIB', 'DESW'];
+    const names = ['DGR', 'KSB', 'PIB', 'DESW', 'AWPO'];
 
     results.forEach((result, i) => {
       if (result.status === 'fulfilled') {

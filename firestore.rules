@@ -1,0 +1,62 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return isAuthenticated() && (
+        request.auth.token.role == 'admin' ||
+        request.auth.token.role == 'superadmin' ||
+        exists(/databases/$(database)/documents/admin_users/$(request.auth.uid))
+      );
+    }
+
+    function isEmployer() {
+      return isAuthenticated() && (
+        request.auth.token.role == 'employer' ||
+        exists(/databases/$(database)/documents/employers/$(request.auth.uid))
+      );
+    }
+
+    // Jobs Collection: Public read, admin or employer write
+    match /jobs/{jobId} {
+      allow read: if true;
+      allow create: if isAdmin() || (isEmployer() && request.resource.data.employerId == request.auth.uid);
+      allow update: if isAdmin() || (isEmployer() && resource.data.employerId == request.auth.uid);
+      allow delete: if isAdmin();
+    }
+
+    // Welfare Schemes Collection: Public read, admin write
+    match /schemes/{schemeId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Scraper Logs: Admin only
+    match /scraped_logs/{logId} {
+      allow read, write: if isAdmin();
+    }
+
+    // Admin Users Directory
+    match /admin_users/{userId} {
+      allow read, write: if isAdmin();
+    }
+
+    // Registered Employers
+    match /employers/{employerId} {
+      allow read: if true;
+      allow create: if isAuthenticated() && request.auth.uid == employerId;
+      allow update: if isAuthenticated() && (request.auth.uid == employerId || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // User Bookmarked Jobs & Alerts
+    match /users/{userId}/bookmarks/{jobId} {
+      allow read, write: if isAuthenticated() && request.auth.uid == userId;
+    }
+  }
+}

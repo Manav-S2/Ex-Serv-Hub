@@ -1,0 +1,279 @@
+export const KNOWLEDGE_BASE = [
+  {
+    id: "armed-forces-retirement-procedure",
+    category: "Retirement & Transition",
+    keywords: [
+      "retirement",
+      "retirement procedural",
+      "retirement procedure",
+      "retire",
+      "discharge",
+      "discharge book",
+      "pension papers",
+      "transition",
+      "release",
+      "superannuation",
+      "seva nivritti",
+      "checklist",
+      "steps",
+      "process",
+      "leaving army",
+      "leaving military"
+    ],
+    content: "COMPLETE RETIREMENT & TRANSITION GUIDE FOR ARMED FORCES PERSONNEL (Army / Navy / Air Force):\n\n" +
+      "1. PHASE 1: PRE-DISCHARGE PREPARATION (12 to 18 Months Prior):\n" +
+      "   • DGR Resettlement Courses: Apply for DGR sponsored courses (Management, IT, Security, Corporate Leadership) to equip yourself for civilian careers.\n" +
+      "   • Record Verification: Cross-check Part II Orders with your Regimental Record Office for spouse name, children dates of birth, and Next-of-Kin (NOK) nominations.\n" +
+      "   • Bank Joint Account: Open a joint pension account with your spouse in a SPARSH-integrated bank (SBI, PNB, BoB, HDFC, etc.) and submit cancelled cheque with IFSC to Record Office.\n\n" +
+      "2. PHASE 2: PENSION & DOCUMENTATION (3 to 6 Months Prior):\n" +
+      "   • SPARSH e-PPO Claim: Record Office submits your LPC-cum-data sheet. Your 12-digit SPARSH Pensioner ID and initial login will be generated.\n" +
+      "   • Commutation Option: Decide if you want to commute up to 50% of your basic pension for a tax-free lump-sum (restored after 15 years).\n" +
+      "   • Terminal Financial Benefits: Verification of DCRG (Gratuity, tax-free up to ₹25 Lakh), Leave Encashment (up to 300 days), and DSOP / AFPP Fund balance.\n\n" +
+      "3. PHASE 3: DISCHARGE DAY & CENTRES:\n" +
+      "   • Collect Military Discharge Book and Character / Service Certificate from your Depot / Regimental Centre.\n" +
+      "   • Surrender active service identity card and receive your Temporary ESM Certificate.\n" +
+      "   • Non-Effective Accounts Clearance: Obtain clearance slips from Mess, Canteen, Armory, and Quartermaster stores.\n\n" +
+      "4. PHASE 4: FIRST 30 DAYS AT HOME (MANDATORY POST-RETIREMENT STEPS):\n" +
+      "   Step 1: Zila Sainik Board (ZSB) Registration — Report in person to your home district ZSB with Discharge Book, PPO, Aadhaar, and 3 passport size photos. Receive your official Ex-Servicemen (ESM) Identity Card.\n" +
+      "   Step 2: ECHS 64-KB Smart Card — Apply online at echs.sourceinfosys.com. Print the 'Temporary Slip' immediately for medical coverage.\n" +
+      "   Step 3: CSD Canteen Smart Card — Convert your active canteen card to an ESM CSD Card (Grocery & Liquor) and register on the AFD portal (afd.csdindia.gov.in) for vehicle purchases.\n" +
+      "   Step 4: SPARSH First Pension & DLC — Verify your first pension credit in your joint account on the last working day of the month and submit your Digital Life Certificate (DLC) in October-November.\n" +
+      "   Step 5: Jobs & Resettlement — Register with DGR (dgrindia.gov.in), AWPO (awpo.org.in), and your District Employment Exchange under the 10% Group C & 20% Group D ESM quota."
+  },
+  {
+    id: "terminal-benefits-commutation",
+    category: "Retirement & Terminal Benefits",
+    keywords: [
+      "commutation",
+      "gratuity",
+      "dcrg",
+      "leave encashment",
+      "afpp",
+      "dsop",
+      "lump sum",
+      "pension calculation",
+      "retirement money",
+      "severance"
+    ],
+    content: "Retirement Terminal Financial Benefits & Calculations:\n1. Commutation of Pension: Armed Forces personnel are entitled to commute up to 50% of their basic pension. Commutation is completely tax-free and restores automatically after 15 years.\n2. Retirement Gratuity (DCRG): Minimum qualifying service is 5 years. Calculated as [1/4 × Last Basic Pay + DA × Number of six-monthly completed service periods] up to 33 years. Fully tax-exempt up to ₹25 Lakh.\n3. Leave Encashment: Accumulated Annual and Casual Leave paid out in cash up to a maximum limit of 300 days (100% tax-exempt for defense personnel).\n4. AFPP / DSOP Fund: Complete accumulated balance with compounding interest is directly credited into your designated bank account at retirement."
+  },
+  {
+    id: "sparsh-life-certificate",
+    category: "SPARSH Pension",
+    keywords: [
+      "sparsh",
+      "life certificate",
+      "jeevan pramaan",
+      "dlc",
+      "face rd",
+      "november",
+      "pension stop",
+      "digital life certificate",
+      "postman"
+    ],
+    content: "SPARSH Annual Identification / Digital Life Certificate (DLC) Guidelines:\n1. Submission Window: Annually between 01 October and 30 November. Failure to submit will suspend pension disbursement from December.\n2. Three Easy Ways to Submit DLC from Home:\n   a) SPARSH Portal / Mobile App with Aadhaar Face RD App: Download 'Jeevan Pramaan' and 'AadhaarFaceRD' from Google Play Store on any Android smartphone. Use phone camera to scan face.\n   b) Doorstep Banking via Postman: Book an India Post Payments Bank (IPPB) postman visit at ccc.cept.gov.in/serviceRequest/ or call toll-free 1800-889-9860. The postman visits home and takes biometric thumbprint for ₹50.\n   c) Nearest Citizen Service Centre (CSC) or SBI/PNB branch.\n3. SPARSH Toll-Free Helpline: 1800-180-5325 (Mon-Fri 09:30 AM to 06:00 PM).\nPortal: sparsh.defencepension.gov.in"
+  },
+  {
+    id: "sparsh-ppo-login",
+    category: "SPARSH Pension",
+    keywords: [
+      "sparsh",
+      "ppo",
+      "login",
+      "password",
+      "forgot password",
+      "corrigendum",
+      "service number",
+      "download ppo"
+    ],
+    content: "SPARSH Login & e-PPO Download Process:\n1. Username: Your 12-digit SPARSH Pensioner ID (for Army, usually starts with Service Number + suffix '01').\n2. First-time Login / Forgot Password: Click 'Forgot Password' on sparsh.defencepension.gov.in, enter Username, and OTP will be sent to registered mobile/email.\n3. How to Download e-PPO: After login, go to 'Pensioner Profile' -> 'My Documents' -> 'e-PPO'. Download the PDF containing your Revised PPO number and Corrigendum PPO.\n4. Grievance Redressal: If pension is withheld or arrear is missing, click 'Grievance' -> 'Lodge Grievance' inside SPARSH portal."
+  },
+  {
+    id: "orop-pension-revision",
+    category: "SPARSH Pension",
+    keywords: [
+      "orop",
+      "orop-2",
+      "orop-3",
+      "pension revision",
+      "arrears",
+      "table",
+      "pcda",
+      "rank pension"
+    ],
+    content: "One Rank One Pension (OROP) Guidelines:\n1. OROP revision is implemented periodically based on Ministry of Defence notifications (PCDA Circulars).\n2. Applicable to all retired personnel across Army, Navy, and Air Force retiring in the same rank with same length of service, irrespective of date of retirement.\n3. Payment of Arrears: OROP arrears are credited directly into SPARSH/Bank pension accounts, typically in half-yearly installments, except for family pensioners and gallantry award winners who receive it in single lump-sum.\n4. Circulars & Tables: Check official pension tables on PCDA (P) Prayagraj portal: pcdapension.nic.in."
+  },
+  {
+    id: "family-pension-rules",
+    category: "Family Pension & NOK",
+    keywords: [
+      "family pension",
+      "nok",
+      "widow",
+      "death of pensioner",
+      "next of kin",
+      "veer nari",
+      "ordinary family pension"
+    ],
+    content: "Family Pension Guidelines for Next-of-Kin (NOK / Veer Naris):\n1. Types of Family Pension: Ordinary Family Pension (OFP) for natural death (30% to 50% of last pay), Special Family Pension (SFP) for death attributable to military service (60% of last pay), and Liberalized Family Pension (LFP) for battle casualties (100% of last pay).\n2. Action on Demise of Pensioner: Immediately intimate PCDA/SPARSH via 1800-180-5325 and the pension paying bank branch with Death Certificate, Joint Account details, and PPO copy.\n3. ECHS Card: Transfer ECHS primary beneficiary membership to spouse; card changes to Family Pensioner card with 100% life-long medical cover.\n4. KSB Assistance: Widows are eligible for ₹50,000 Daughter Marriage Grant, PMSS scholarship for dependent children, and funeral expense grant."
+  },
+  {
+    id: "echs-smart-card",
+    category: "ECHS Healthcare",
+    keywords: [
+      "echs",
+      "64kb",
+      "smart card",
+      "apply card",
+      "temporary slip",
+      "renewal",
+      "online",
+      "source.echs.gov.in"
+    ],
+    content: "ECHS 64-KB Smart Card Online Application & Renewal:\n1. Apply / Renew Online: Visit echs.sourceinfosys.com or echs.gov.in.\n2. Documents Needed: Service Discharge Book, PPO copy, Aadhaar card & PAN of self and dependents, passport photographs, blood group report.\n3. Temporary Slip: While the new 64-KB plastic card is under print/dispatch, pensioners can download and print a 'Temporary Slip' online, which is valid for medical treatment at all polyclinics.\n4. Dependent Verification: Annual income of dependents (unemployed children, parents) must not exceed ₹9,000 + DA per month. Upload Form 26AS annually for verification."
+  },
+  {
+    id: "echs-emergency-treatment",
+    category: "ECHS Healthcare",
+    keywords: [
+      "echs",
+      "emergency",
+      "reimbursement",
+      "hospital",
+      "48 hours",
+      "non-empanelled",
+      "claim",
+      "heart attack",
+      "accident"
+    ],
+    content: "ECHS Emergency Treatment in Non-Empanelled Hospitals:\n1. In life-threatening emergencies (heart attack, major trauma, stroke, ICU admission), an ECHS beneficiary can be admitted directly to ANY nearby hospital without prior referral.\n2. MANDATORY 48-Hour Intimation: The patient or family MUST inform the nearest ECHS Polyclinic within 48 hours of admission via email/phone or through the ECHS portal.\n3. Emergency Certificate: Obtain an 'Emergency Certificate' clearly signed by the treating hospital superintendent/doctor confirming admission was under acute emergency.\n4. Reimbursement Claim: Submit the online reimbursement claim on the ECHS portal within 30 days of discharge with original discharge summary, consolidated itemized bills, and receipt vouchers."
+  },
+  {
+    id: "ksb-daughter-marriage-grant",
+    category: "KSB Welfare",
+    keywords: [
+      "marriage",
+      "shaadi",
+      "daughter",
+      "beti",
+      "ksb",
+      "grant",
+      "50000",
+      "financial help",
+      "affdf",
+      "wedding"
+    ],
+    content: "KSB Daughter's Marriage Grant (Financial Assistance under AFFDF):\n1. Grant Amount: ₹50,000 per daughter (eligible for up to 2 daughters) provided to Ex-Servicemen and Widows.\n2. Rank Eligibility: Havildar and below ranks (Army) and equivalent in Navy and Air Force.\n3. Deadline: Application MUST be submitted online within 180 days (6 months) of the marriage date.\n4. Required Documents: Discharge Book copy, Marriage Certificate from Registrar/Tehsildar/Panchayat, Daughter's age certificate (minimum 18 years), Bank passbook, ESM Identity Card.\n5. Process: Apply online on ksb.gov.in. Application is verified by the local Zila Sainik Board (ZSB) and money is credited via DBT directly to bank."
+  },
+  {
+    id: "ksb-pmss-scholarship",
+    category: "KSB Welfare",
+    keywords: [
+      "pmss",
+      "scholarship",
+      "children",
+      "education",
+      "prime minister",
+      "engineering",
+      "mbbs",
+      "btech",
+      "ksb"
+    ],
+    content: "Prime Minister's Scholarship Scheme (PMSS) for ESM Children:\n1. Scholarship Amount: ₹3,000/month for girls (₹36,000 per year) and ₹2,500/month for boys (₹30,000 per year).\n2. Eligible Courses: First professional degree courses recognized by regulatory bodies (e.g., MBBS, B.Tech/BE, BDS, MBA, MCA, B.Pharm).\n3. Eligibility: Minimum 60% marks in 10+2 / Diploma / Graduation in entry qualification.\n4. Order of Priority: Highest priority to children of soldiers killed in action/disabled in military operations, followed by general ESM children.\n5. Website: Apply annually on ksb.gov.in (registration typically opens in July-August)."
+  },
+  {
+    id: "ksb-penury-grant",
+    category: "KSB Welfare",
+    keywords: [
+      "penury",
+      "non-pensioner",
+      "financial help",
+      "old age",
+      "ksb",
+      "4000",
+      "affdf",
+      "monthly grant"
+    ],
+    content: "KSB Penury Grant (Raksha Mantri Ex-Servicemen Welfare Fund):\n1. Purpose: Financial assistance to destitute, non-pensioner Ex-Servicemen and widows.\n2. Amount: ₹4,000 per month (lifetime or until circumstances change).\n3. Eligibility: Non-pensioner ESM/widow of rank Havildar/equivalent and below, age 65 years or above, with family income from all sources below state poverty threshold.\n4. How to Apply: Online via ksb.gov.in with ZSB recommendation."
+  },
+  {
+    id: "csd-afd-car-quota",
+    category: "CSD Canteen",
+    keywords: [
+      "csd",
+      "car",
+      "afd",
+      "quota",
+      "entitlement",
+      "limit",
+      "price",
+      "rank car",
+      "8 lakh",
+      "10 lakh",
+      "20 lakh",
+      "gap"
+    ],
+    content: "CSD AFD Portal Vehicle Purchase Entitlement Rules:\n1. Officers (including Honorary Commissioned): May purchase four-wheelers up to ₹20 Lakh (excluding taxes). Frequency: First car after 5 years of service, next after 8 years gap.\n2. JCOs (Subedar Major, Subedar, Naib Subedar): May purchase four-wheelers up to ₹10 Lakh (excluding taxes). Frequency: First car as JCO, next after 8 years gap.\n3. OR / Jawans (Sepoy, Naik, Havildar): May purchase four-wheelers up to ₹8 Lakh (excluding taxes). Frequency: First car while in service, second car after retirement (min 8 years gap).\n4. Resale Lock-in Period: A vehicle purchased through CSD cannot be sold or transferred for 5 years from purchase date.\n5. Portal: Orders must be placed online at afd.csdindia.gov.in."
+  },
+  {
+    id: "csd-bike-purchase",
+    category: "CSD Canteen",
+    keywords: [
+      "csd",
+      "bike",
+      "two wheeler",
+      "motorcycle",
+      "scooter",
+      "royal enfield",
+      "hero",
+      "honda"
+    ],
+    content: "CSD Two-Wheeler (Bike/Scooter) Purchase Rules:\n1. All Ranks (Officers, JCOs, and OR/Jawans) are entitled to purchase a two-wheeler through the CSD AFD Portal.\n2. Frequency: A two-wheeler can be purchased once every 3 years.\n3. Documents Required: CSD Smart Card, Pan Card, Aadhaar Card, Driving Licence, Availability Certificate from the authorized CSD dealer, and Bank Loan / Payment details.\n4. Booking: Register on afd.csdindia.gov.in, select dealer, and generate purchase indent online."
+  },
+  {
+    id: "dgr-resettlement-schemes",
+    category: "DGR Resettlement",
+    keywords: [
+      "dgr",
+      "security agency",
+      "cng",
+      "mother dairy",
+      "coal",
+      "quota",
+      "jobs",
+      "resettlement",
+      "govt jobs",
+      "reservations"
+    ],
+    content: "DGR Self-Employment & Resettlement Schemes:\n1. DGR Security Agency Scheme: Retired Commissioned Officers can get sponsorship to operate private security agencies for Central PSUs.\n2. Management of CNG Stations / Mother Dairy / Coal Tipper Schemes: Available for retired JCOs and ORs through ZSB/RSB nominations.\n3. Govt Job Reservation Quota: 10% in Group C posts and 20% in Group D posts in Central Government Ministries, PSUs, and Nationalized Banks.\n4. Age Relaxation: Military service rendered plus 3 years grace added to maximum entry age."
+  },
+  {
+    id: "zsb-registration-icard",
+    category: "ZSB Welfare",
+    keywords: [
+      "identity card",
+      "i-card",
+      "esm card",
+      "zsb registration",
+      "district",
+      "discharge book"
+    ],
+    content: "Zila Sainik Board (ZSB) Registration & ESM Identity Card:\n1. Every retiring service member must register at their district Zila Sainik Welfare Office within 6 months of retirement.\n2. Benefits of ZSB I-Card: Mandatory for obtaining state reservations, school fee concessions, PMSS scholarships, and bus pass concessions in various states.\n3. Documents: Military Discharge Book (original + 2 copies), PPO, 3 passport size photographs in civil dress, Aadhaar card, Bank passbook."
+  },
+  {
+    id: "helpline-numbers",
+    category: "Emergency & Helplines",
+    keywords: [
+      "helpline",
+      "phone",
+      "toll free",
+      "contact",
+      "emergency",
+      "number",
+      "grievance"
+    ],
+    content: "Essential Ex-Servicemen Helpline Numbers:\n• SPARSH Pension Toll-Free: 1800-180-5325\n• ECHS Central Toll-Free: 1800-114-115 / 011-25684645\n• Kendriya Sainik Board (KSB): 011-26715250 / 011-26715252\n• Directorate General Resettlement (DGR): 011-26192350\n• Army Welfare Placement Org (AWPO): 1800-11-2244\n• PCDA (Pensions) Prayagraj: 1800-180-5321\n• ECHS Mobile App Help: 011-25682870"
+  }
+];
+
+export default KNOWLEDGE_BASE;
